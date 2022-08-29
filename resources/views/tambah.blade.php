@@ -2,6 +2,17 @@
 <html>
 <head>
 	<title>Pegawai</title>
+	<style>
+		*{
+			text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+			text-decoration: none;
+		}
+		a{
+			color: blue;
+		}
+	</style>
 </head>
 <body>
  
